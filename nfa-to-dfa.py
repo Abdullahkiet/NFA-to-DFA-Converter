@@ -1,11 +1,3 @@
-
-# Automata By Sir Usman Khan
-# Name: Muhammad Abdullah
-# SID: 9061
-# Project Title: NFA to DFA Converter
-
-
-
 import pandas as pd
 
 # Taking NFA input from User 
